@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://anterch.github.io/sitemap.html.gz
+Sitemap: https://anterch.github.io/app/sitemap.html.gz
+Sitemap: https://anterch.github.io/assets/sitemap.html.gz
+Sitemap: https://anterch.github.io/css/sitemap.html.gz
+Sitemap: https://anterch.github.io/data/sitemap.html.gz
+Sitemap: https://anterch.github.io/includes/sitemap.html.gz
+Sitemap: https://anterch.github.io/item/sitemap.html.gz
+Sitemap: https://anterch.github.io/src/sitemap.html.gz
